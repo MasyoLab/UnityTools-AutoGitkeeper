@@ -1,7 +1,7 @@
 {
-  "name": "com.masyo-lab.unity-tool-template",
-  "displayName": "unity tool template",
-  "version": "x.x.x",
+  "name": "com.masyo-lab.auto-gitkeeper",
+  "displayName": "AutoGitkeeper",
+  "version": "1.0.0",
   "unity": "2019.4",
   "description": "MIT License\nCopyright (c) 2022 MasyoLab",
   "author": {
@@ -11,7 +11,11 @@
   },
   "keywords": [
     "masyolab",
-    "masyo lab"
+    "masyo lab",
+    "AutoGitkeeper",
+    "auto-gitkeeper",
+    "gitkeeper",
+    "Gitkeeper"
   ],
   "dependencies": {}
 }
